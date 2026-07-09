@@ -1,4 +1,6 @@
-## Hi there 👋
+<h2>Hi! I am Sofia!<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzE0aHVjMHdoMnN2azVwN241Ynd4czg0MmE1cXlwbG1naXQ3a2p0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v15NFEXiCHhLfh8Ofy/giphy.gif" width="50"></h2>
+
+<p>This is a test</p>
 
 <!--
 **sofia-konzen/sofia-konzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
